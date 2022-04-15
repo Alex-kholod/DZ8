@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\ThirdProject\DZ8\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Alex\source\repos\ThirdProject\DZ8\Header.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  DZ8.vcxproj -> C:\Users\Alex\source\repos\ThirdProject\Debug\DZ8.exe
